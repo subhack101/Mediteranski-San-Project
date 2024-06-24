@@ -10,5 +10,8 @@ Easy Navigation: Intuitive and organized for seamless browsing.
 Rich Content: Explore tutorials, resources, and more.
 Interactive Elements: Engage with interactive features.
 Constant Updates: Stay informed with regular updates.
+
+
 Clone
+
 This website is a completely clone of mediteranskisan.com. I Just cloned it.
